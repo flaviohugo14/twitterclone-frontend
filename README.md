@@ -12,6 +12,10 @@ Um clone com algumas funcionalidades do Twitter, desenvolvido com ReactJS.
 - [Axios](https://github.com/axios/axios)
 
  ---
+ 
+ [Preview](https://twitter-devtech.herokuapp.com/)
+ 
+ ---
 
 ## Available Scripts
 
